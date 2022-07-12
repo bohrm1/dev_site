@@ -1,0 +1,3 @@
+[submodule "matthewbohr/public"]
+	path = matthewbohr/public
+	url = https://github.com/bohrm1/matthewbohr.github.io.git
